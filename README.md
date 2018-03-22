@@ -12,5 +12,3 @@
 
 ## 资源源码下载地址
 [源码素材下载地址](http://www.6m5m.com)
-
-**attension: only create projectName in samples dir, it will be compiled correctly** 跟4级标题差不多
